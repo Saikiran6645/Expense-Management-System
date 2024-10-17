@@ -1,4 +1,4 @@
-##Expense Management System 
+# Expense Management System 
 
 This is an awesome project. I have developed it using React.js Node.js, Express.js, MongoDB, React Query, React Redux, Formik,Yup.
 ## Run locally

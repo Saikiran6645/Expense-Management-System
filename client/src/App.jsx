@@ -6,7 +6,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import HeroSection from "./components/Home/Home";
 import PublicNavbar from "./components/Navbar/PublicNavbar";
 import RegistrationForm from "./components/User/Register";
-import LoginForm from "./components/User/login";
+import LoginForm from "./components/User/Login";
 import { useSelector } from "react-redux";
 import PrivateNavbar from "./components/Navbar/PrivateNavbar";
 import AddCategory from "./components/Category/AddCategory";
